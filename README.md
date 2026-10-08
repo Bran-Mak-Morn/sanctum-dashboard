@@ -47,6 +47,12 @@ This repository uses a streamlined, flat layout to handle asset delivery and Mar
 └── README.md           # System documentation
 ```
 
+## 🔗 Links
+
+- Project Website: **[Sanctum Dashboard](https://sanctum.georgefreedom.com/)**
+- **[Personal website](https://GeorgeFreedom.com)**
+- **[LinkedIn](https://www.linkedin.com/in/georgefreedom/)**
+
 
 ## 📜 License:
 
