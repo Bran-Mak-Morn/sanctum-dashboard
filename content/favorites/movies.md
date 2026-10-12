@@ -4,9 +4,15 @@
 
 * **The Northman** - 2022 `History/Adventure`
 
+* **Sisu** - 2022 `Action/War`
+
 * **Nobody** - 2021 `Action/Thriller`
 
+* **Don't Look Up / K zemi hleď** - 2021 `Sci-fi/Comedy`
+
 * **Rambo V** - 2019 `Action/Thriller`
+
+* **Heavy Trip** - 2018 `Comedy/Roadmovie`
 
 * **Ready Player One** - 2018 `Sci-fi/Postapo`
 
@@ -14,11 +20,13 @@
 
 * **Edge of Tomorrow** - 2014 `Action/Sci-Fi`
 
-* **We're the Millers** - 2013 `Comedy`
+* **We're the Millers / Millerovi na tripu** - 2013 `Comedy`
 
 * **Gravity** - 2013 `Sci-fi`
 
 * **Machete Kills** - 2013 `Action/Thriller`
+
+* **Iron Sky** - 2012 `Sci-fi/Comedy`
 
 * **American Reunion** - 2012 `Comedy`
 
@@ -306,6 +314,8 @@
 
 * **Batman** - 1989 `Goth/Thriller`
 
+* **They live** - 1988 `Postapo`
+
 * **Rain Man** - 1988 `Drama`
 
 * **Nico** - 1988 `Action/Thriller`
@@ -338,13 +348,17 @@
 
 * **Wall Street** - 1987 `Drama/Crime`
 
-* **The Barbarians** 1987 `Adventure/Fantasy`
+* **The Barbarians** - 1987 `Adventure/Fantasy`
 
 * **Dirty Dancing** - 1987 `Romance`
 
 * **Beverly Hills Cop II** - 1987 `Action/Comedy`
 
 * **Spaceballs** - 1987 `Sci-Fi/Comedy`
+
+* **Steel Dawn** - 1987 `Postapo`
+
+* **Legend of the Golden Pearl / Legenda o zlaté perle** - 1987 `Adventure/Sci-fi`
 
 * **The Color of Money** - 1986 `Drama`
 
@@ -371,6 +385,8 @@
 * **Pale Rider** - 1985 `Western`
 
 * **The Jewel of the Nile** - 1985 `Adventure/Comedy`
+
+* **Sex mission / Sexmise** - 1984 `Sci-fi/Comedy`
 
 * **Give the Devil His Due / S čerty nejsou žerty** - 1984 `Fairytale`
 
@@ -569,6 +585,8 @@
 
 * **The Big Bang Theory** - 2007 `Sitcom`
 
+* **The Tudors** - 2007 `History/Drama`
+
 * **Battlestar Galactica** - 2004 `Sci-Fi`
 
 * **Star Trek: Enterprise** - 2001 `Sci-Fi`
@@ -630,6 +648,8 @@
 * **The Far Pavilions / Vzdálené vrcholky hor** - 1984 `History/Romance`
 
 * **Dempsey and Makepeace** - 1984 `Crime/Thriller`
+
+* **Red Dawn** - 1984 `War/Postapo`
 
 * **Blackadder** - 1983 `History/Sitcom`
 

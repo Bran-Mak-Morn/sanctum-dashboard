@@ -10,8 +10,6 @@
 
 * **T2 Trainspotting** - 2017 `Drama`
 
-* **Hacker - Todo Crime tem umInício** - 2016 `Hackery`
-
 * **The Hangover Part III** 2013 `Comedy`
 
 * **Taken / 96 hodin** 2008 `Thriller`
@@ -28,19 +26,13 @@
 
 * **Office space** - 1999 `Black comedy`
 
-* **They live** - 1988 `Postapo`
-
 * **Amsterdamned** 1988 `Horror`
-
-* **Steel Dawn** 1987 `Postapo`
 
 * **Razorback** 1984 `Horror`
 
-* **Red Dawn** - 1984 `Postapo`
+* **The Wicked Lady** 1983 `Adventure/History`
 
 * **Evil Dead** 1981 `Horror`
-
-* **Terror** - 1978 `Horror`
 
 * **Mad Max 1-3** - 1979, 1981, 1985 `Postapo`
 
